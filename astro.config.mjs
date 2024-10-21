@@ -27,6 +27,10 @@ export default defineConfig({
     sidebar: [
       obsidianSidebarGroup,
     ],
+    customCss: [
+      '@fontsource/xanh-mono/400.css',
+      './src/style/custom.css'
+    ],
     plugins: [
       // Generate the Obsidian vault pages.
       starlightObsidian({
