@@ -2,4 +2,4 @@ Kat Zhang, aka Poet Engineer, makes very cool art, and posts about similar stuff
 
 Some pieces that I particularly like:
 
-https://x.com/i/status/1843183097975881889
+https://fxtwitter.com/poetengineer__/status/1843183097975881889

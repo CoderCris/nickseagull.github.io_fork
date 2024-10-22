@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kat Zhang.md",
+                "file": "meta/gallery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kat Zhang"
+              "title": "gallery"
             }
           },
           {
@@ -189,14 +189,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d161803521ebde6",
+  "active": "fb0dc92459456e0d",
   "lastOpenFiles": [
-    "meta/gallery.md",
     "Kat Zhang.md",
+    "assets",
+    "meta/gallery.md",
     "bak.md",
     "Kat Zhang.mdx",
     "00000 the nulspace.md",
-    "Pasted image 20241022190008.png",
+    "assets/Pasted image 20241022190008.png",
     "meta"
   ]
 }
