@@ -6,4 +6,4 @@ const allNotes = allDocs.filter(doc => doc.id.startsWith('notes/'));
 const randomPost = allNotes[Math.floor(Math.random() * allNotes.length)];
 ---
 
-<a href={`/${randomPost.slug}`}>Explore.</a>
+<a href={`/${randomPost?.slug || ''}`}>Explore.</a>
