@@ -1,4 +1,5 @@
 {
   "cssTheme": "Typomagical",
-  "accentColor": "#ffa200"
+  "accentColor": "#ffa200",
+  "baseFontSize": 20
 }

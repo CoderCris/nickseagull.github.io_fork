@@ -11,21 +11,30 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
+    "@astrojs/mdx": "^3.1.8",
     "@astrojs/react": "^3.6.2",
     "@astrojs/starlight": "^0.28.3",
     "@fontsource/vt323": "^5.1.0",
     "@fontsource/xanh-mono": "^5.1.0",
     "@react-three/fiber": "^8.17.10",
+    "@remark-embedder/core": "^3.0.3",
+    "@remark-embedder/transformer-oembed": "^5.0.1",
     "@types/react": "^18.3.11",
     "@types/react-dom": "^18.3.1",
     "@types/three": "^0.169.0",
     "astro": "^4.15.3",
+    "astro-embed": "^0.7.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "remark-mdx": "^3.1.0",
+    "remark-oembed": "^1.2.2",
     "sharp": "^0.32.5",
     "starlight-obsidian": "^0.4.9",
     "starlight-theme-obsidian": "^0.0.7",
     "three": "^0.169.0",
     "typescript": "^5.6.3"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3"
   }
 }

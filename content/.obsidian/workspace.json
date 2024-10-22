@@ -13,10 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00000 the nulspace.md",
+                "file": "Kat Zhang.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kat Zhang"
+            }
+          },
+          {
+            "id": "a92c67c735800172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kat Zhang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kat Zhang"
+            }
+          },
+          {
+            "id": "33b2f8b42257abbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "meta/gallery.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "gallery"
             }
           }
         ]
@@ -39,7 +69,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +86,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00000 the nulspace.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +128,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -102,10 +139,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00000 the nulspace.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -116,7 +154,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00000 the nulspace.md"
-              }
+                "file": "Untitled.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -138,6 +180,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "edit-mdx:New .mdx file": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -146,6 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb0dc92459456e0d",
-  "lastOpenFiles": []
+  "active": "1d161803521ebde6",
+  "lastOpenFiles": [
+    "meta/gallery.md",
+    "Kat Zhang.md",
+    "bak.md",
+    "Kat Zhang.mdx",
+    "00000 the nulspace.md",
+    "Pasted image 20241022190008.png",
+    "meta"
+  ]
 }
