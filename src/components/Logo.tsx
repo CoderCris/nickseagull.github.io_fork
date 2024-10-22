@@ -10,7 +10,7 @@ function Box(props: any) {
     meshRef.current.rotation.y += (delta * props.rotationMult[1])
     meshRef.current.rotation.z += (delta * props.rotationMult[2])
   })
-  const [color, setColor] = useState("black")
+  const [color, setColor] = useState("white")
   return (
     <mesh
       {...props}
