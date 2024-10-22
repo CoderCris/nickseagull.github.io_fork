@@ -1,7 +1,6 @@
 :root {
   /*--sl-font: 'Xanh Mono', monospace;*/
   /*--sl-font-mono: 'Xanh Mono', monospace;*/
-  --sl-color-text: white;
   --sl-text-base: 1.125rem;
   --sl-text-sm: 1.125rem;
   --sl-text-xs: 1rem;
@@ -12,7 +11,6 @@
 
 :root[data-theme='dark'] {
   --sl-color-bg: black;
-  --sl-color-gray-2: white;
 }
 
 .sl-markdown-content {
