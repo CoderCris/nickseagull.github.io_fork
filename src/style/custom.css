@@ -1,6 +1,6 @@
 :root {
-  --sl-font: 'Xanh Mono', monospace;
-  --sl-font-mono: 'Xanh Mono', monospace;
+  /*--sl-font: 'Xanh Mono', monospace;*/
+  /*--sl-font-mono: 'Xanh Mono', monospace;*/
   --sl-color-text: white;
   --sl-text-base: 1.125rem;
   --sl-text-sm: 1.125rem;
@@ -17,4 +17,9 @@
 
 .sl-markdown-content {
   font-size:1.25rem;
+}
+
+starlight-obsidian-theme-select > button {
+  padding: 0.5em;
+  margin-left: -0.5em;
 }

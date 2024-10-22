@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "dd69257c40dc26a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "55f64d9ddb4af230",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0dc92459456e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00000 the nulspace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a7278af5f7c2872",
+    "type": "split",
+    "children": [
+      {
+        "id": "1080f3554c57a6a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d161803521ebde6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dabc7ed2e6cac4a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a1b2ad21d7b303b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1cefbcf2250b34e",
+    "type": "split",
+    "children": [
+      {
+        "id": "593b8b8cc29ba797",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83350d8c72980b3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00000 the nulspace.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "284359e748e012e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00000 the nulspace.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fac7492e57441a8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e95f5cbbe0bf2427",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00000 the nulspace.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fb0dc92459456e0d",
+  "lastOpenFiles": []
+}

@@ -14,7 +14,8 @@ export default defineConfig({
   integrations: [starlight({
     title: 'nulspace',
     components: {
-      Sidebar: './src/overrides/Sidebar.astro'
+      Sidebar: './src/overrides/Sidebar.astro',
+      Header: './src/overrides/Header.astro'
     },
     social: {
       github: 'https://github.com/nickseagull/',
