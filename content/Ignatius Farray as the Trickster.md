@@ -1,4 +1,5 @@
 import { YouTube } from 'astro-embed';
+
 <YouTube id="https://www.youtube.com/watch?v=rLEO_aYlMZk"/>
 
 [[Ignatius Farray]] embodies the [[Trickster Archetype]] or Sacred Clown archetype.
