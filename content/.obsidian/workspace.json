@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kat Zhang.md",
+                "file": "Ignatius Farray - The Sacred Clown.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kat Zhang"
+              "title": "Ignatius Farray - The Sacred Clown"
             }
           }
         ],
@@ -206,8 +206,8 @@
   },
   "active": "1d161803521ebde6",
   "lastOpenFiles": [
-    "Ignatius Farray - The Sacred Clown.md",
     "Kat Zhang.md",
+    "Ignatius Farray - The Sacred Clown.md",
     "LLM Evaluations.md",
     "RAG.md",
     "LLM.md",

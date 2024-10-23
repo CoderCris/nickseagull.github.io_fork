@@ -2,5 +2,6 @@
   "vimMode": true,
   "showUnsupportedFiles": false,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "autoConvertHtml": false
 }
