@@ -1,4 +1,7 @@
-https://www.youtube.com/watch?v=rLEO_aYlMZk
+import { YouTube } from 'astro-embed';
+
+
+<YouTube id="https://www.youtube.com/watch?v=rLEO_aYlMZk"/>
 
 The video above talks about Ignatius Farray, a canarian comedian artist, and how he expresses truth through the usage of dark humor, laughing at both authoritarian groups with power, like politics, church, right-wing, as well as at minorities, like feminism, ill people, and so on. But the most important thing, he laughs at himself and his disgraces, like his divorce, drinking problems, not being able to see his son, etc. Doing his dark humor not from a position of privilege, but on the opposite.
 

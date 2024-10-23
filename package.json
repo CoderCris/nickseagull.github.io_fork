@@ -29,12 +29,13 @@
     "remark-mdx": "^3.1.0",
     "remark-oembed": "^1.2.2",
     "sharp": "^0.32.5",
-    "starlight-obsidian": "^0.4.9",
+    "starlight-obsidian": "https://github.com/NickSeagull/starlight-obsidian/releases/download/mdx/starlight-obsidian-0.4.9.tgz",
     "starlight-theme-obsidian": "^0.0.7",
     "three": "^0.169.0",
     "typescript": "^5.6.3"
   },
   "devDependencies": {
+    "degit": "^2.8.4",
     "gray-matter": "^4.0.3"
   }
 }
