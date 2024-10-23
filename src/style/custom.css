@@ -21,3 +21,29 @@ starlight-obsidian-theme-select > button {
   padding: 0.5em;
   margin-left: -0.5em;
 }
+
+.header {
+  border-bottom: none;
+}
+
+@media(max-width: 50rem) {
+  .title-wrapper {
+    width: 100%;
+  }
+  .logo {
+    margin: 0 auto;
+  }
+  #logo-canvas {
+    height: 130px !important;
+  }
+}
+@media(max-width: 30rem) {
+  #logo-canvas {
+    height: 80px !important;
+  }
+}
+@media(min-width: 50rem) {
+  #logo-canvas {
+    height: 150px !important;
+  }
+}
