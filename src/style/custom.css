@@ -7,14 +7,19 @@
   --sl-color-text-accent: Gold;
   --sl-color-text-accent-high: Yellow;
   --sl-color-text-accent-low: Orange;
-} 
+}
 
-:root[data-theme='dark'] {
+:root[data-theme="dark"] {
   --sl-color-bg: black;
+  --slsg-node-color-current: Gold;
+}
+
+:root[data-theme="light"] {
+  --slsg-node-color-current: Blue;
 }
 
 .sl-markdown-content {
-  font-size:1.25rem;
+  font-size: 1.25rem;
 }
 
 starlight-obsidian-theme-select > button {
@@ -26,7 +31,7 @@ starlight-obsidian-theme-select > button {
   border-bottom: none;
 }
 
-@media(max-width: 50rem) {
+@media (max-width: 50rem) {
   .title-wrapper {
     width: 100%;
   }
@@ -37,12 +42,12 @@ starlight-obsidian-theme-select > button {
     height: 130px !important;
   }
 }
-@media(max-width: 30rem) {
+@media (max-width: 30rem) {
   #logo-canvas {
     height: 80px !important;
   }
 }
-@media(min-width: 50rem) {
+@media (min-width: 50rem) {
   #logo-canvas {
     height: 150px !important;
   }

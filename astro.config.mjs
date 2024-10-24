@@ -41,7 +41,29 @@ export default defineConfig({
             label: "nulspace",
           },
         }),
-        starlightThemeObsidian(),
+        starlightThemeObsidian({
+          backlinksConfig: {
+            visibilityRules: ["**/*"],
+          },
+          // @ts-ignore
+          graphConfig: {
+            depth: 2,
+            linkDistance: 100,
+            prefetchPages: true,
+            renderArrows: true,
+            renderExternal: true,
+            renderUnresolved: true,
+            tagRenderMode: "node",
+            tagStyles: {
+              Tag: {
+                shape: "square",
+                strokeWidth: 8,
+                cornerType: "round",
+                strokeCornerRadius: "80%",
+              },
+            },
+          },
+        }),
       ],
     }),
     react(),
