@@ -24,3 +24,5 @@ public/notes/
 src/content/docs/notes
 src/assets/
 src/.obsidian/
+
+processor/data/*
