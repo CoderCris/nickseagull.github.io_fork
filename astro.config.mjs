@@ -7,6 +7,8 @@ import mdx from "@astrojs/mdx";
 import embeds from "astro-embed/integration";
 // @ts-ignore
 import remarkOembed from "remark-oembed";
+import AutoImport from 'astro-auto-import';
+
 
 import react from "@astrojs/react";
 
@@ -64,6 +66,29 @@ export default defineConfig({
             },
           },
         }),
+      ],
+    }),
+    AutoImport({
+      imports: [
+        // import A from './src/components/A.astro';
+        // './src/components/A.astro',
+
+        {
+          // Explicitly alias a default export
+          // generates:
+          // import { default as B } from './src/components/B.astro';
+          // './src/components/B.astro': [['default', 'B']],
+
+          // Import a module’s named exports
+          // generates:
+          // import { Tweet, YouTube } from 'astro-embed';
+          'astro-embed': ['Tweet', 'YouTube'],
+
+          // Import all named exports from a module as a namespace
+          // generates:
+          // import * as Components from './src/components';
+          // './src/components': 'Components',
+        },
       ],
     }),
     react(),
