@@ -1,0 +1,1 @@
+When you have a couple of tabs open, click on the arrow down in the tab menu, and select "Stacked Tabs".
